@@ -1,0 +1,28 @@
+body {
+	background:#000000
+}
+
+.container {
+    height: 100px;
+    outline: dashed 1px black;
+    text-align: center;
+  }
+
+.timetext {
+    font-family: Segoe UI Black;
+    /* font-size: 400px; */
+    font-size:calc(300px + 4.5vw);
+    font-weight: bold;
+    color: #2196F3;
+
+    margin-top: 7%;
+  }
+
+  .datetext {
+    font-family:Segoe UI Black;
+    font-size:100px;
+    font-weight: bold;
+    color: #ffffff;
+  }
+
+
